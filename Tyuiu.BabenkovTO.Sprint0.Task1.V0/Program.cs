@@ -4,8 +4,8 @@
     {
         Console.WriteLine("Hello, World");
         string name = "Трофим";
-        int a = 18;
-        Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + a + " лет");
+        int age = 18;
+        Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет");
 
     }
 }
