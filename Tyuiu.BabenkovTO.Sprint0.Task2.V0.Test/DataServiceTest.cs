@@ -1,6 +1,4 @@
-﻿
-using Tyuiu.BabenkovTO.Sprint0.Task2.V0.Lib;
-
+﻿using Tyuiu.BabenkovTO.Sprint0.Task2.V0.Lib;
 namespace Tyuiu.BabenkovTO.Sprint0.Task2.V0.Test
 {
     [TestClass]
